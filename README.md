@@ -1,4 +1,4 @@
-#SIMON - CIÊNCIA DE DADOS
+# SIMON_Ciencia_de_Dados
 
 Desenvolvimento e implementação de um Sistema de Análise e
 Apresentação de Dados de Monitoramento de Condições Ambientais de
